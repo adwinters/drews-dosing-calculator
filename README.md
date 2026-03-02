@@ -2,6 +2,8 @@
 
 [![Launch App](https://img.shields.io/badge/Shiny-Live_App-brightgreen)](https://adwinters.shinyapps.io/drews-dosing-calculator/)
 
+**🔗 Launch Live App:** [Click here to open Drew's Dosing Calculator](https://adwinters.shinyapps.io/drews-dosing-calculator/)
+
 Drew's Dosing Calculator is an interactive tool for calculating precise aquarium nutrient dosing. Users can either select a single fertilizer or create a custom mix of multiple fertilizers to determine how much each nutrient (N, P, K, Mg, Ca, S, and trace elements) is supplied per dose, the concentration in stock solutions (ppm), and the percentage composition (% w/v). The app converts tank volumes from gallons to liters, allows specification of stock solution and dosing volumes, dynamically generates nutrient tables, and provides a downloadable HTML recipe with all calculations.
 
 ---
