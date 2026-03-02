@@ -1,6 +1,6 @@
 # Drew's Dosing Calculator
 
-[🔗 Launch Live App: Click here to open SunTally](https://adwinters.shinyapps.io/drews-dosing-calculator/)  
+[🔗 Launch Live App: Click here to open Drew's Dosing Calculator](https://adwinters.shinyapps.io/drews-dosing-calculator/)  
 [![Launch App](https://img.shields.io/badge/Shiny-Live_App-brightgreen)](https://adwinters.shinyapps.io/drews-dosing-calculator/)
 
 
